@@ -9,5 +9,8 @@ overrides:
     "tableau.pgwire.client.protocol": "atscale_pgwire"
     "query.includeComments.general.queryId" : True
     "query.includeComments.general.userId" : True
+    "auth.user.normalize.lowercase" : true
+    "pgwire.ssl.enabled" : true
+    "ssl.enabled": true
    
     
